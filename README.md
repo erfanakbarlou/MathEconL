@@ -2,4 +2,4 @@
 
 Static interactive mathematical economics learning tool.
 
-Open `index.html` in a modern browser, or publish the folder using GitHub Pages.
+Open `index0.html` in a modern browser, or publish the folder using GitHub Pages.
